@@ -2,6 +2,7 @@
 
 Working EFI for dualboot with Bigsur 11.3 and Windows 10
 
+
 Hardware:
 ---------
 	.- Motherboard: ASUS ROG STRIX X570-I Gaming (BIOS version: 3801 Beta)
@@ -41,7 +42,7 @@ OS versions
 --------------
 	.- Dual boot:
 		.- Windows 10
-		.- BigSur 11.3 
+		.- BigSur 11.3 (using iMacPro1,1 SMBIOS)
 
 
 Motherboard BIOS Version & Settings
