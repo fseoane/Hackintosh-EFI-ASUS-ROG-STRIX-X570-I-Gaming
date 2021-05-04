@@ -60,7 +60,7 @@ Motherboard BIOS Version & Settings
 
 What does work:
 ---------------
-	.- Mostly everithing
+	.- Mostly everything
 	.- USB Mapping
 	.- Wifi
 	.- Bluetooth (even after wake)
