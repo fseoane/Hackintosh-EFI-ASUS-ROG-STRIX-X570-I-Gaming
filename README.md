@@ -63,7 +63,7 @@ What does work:
 	.- Mostly everithing
 	.- USB Mapping
 	.- Wifi
-	,. Bluetooth (even after wake)
+	.- Bluetooth (even after wake)
 	.- Sleep / Wake
 	.- Using MenuMeters and HWMonitor to gather different metrics from procesor, disk, network,temperatures, etc
 	.- etc
