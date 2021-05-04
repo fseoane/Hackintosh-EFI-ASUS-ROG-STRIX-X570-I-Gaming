@@ -1,6 +1,6 @@
 # Hackintosh-EFI-X570I
 
-Working EFI for dualboot with Bigsur 11.3 and Windows 10
+Working EFI for dualboot with Bigsur 11.3 and Windows 10 (SMBIOS iMacPro1,1)
 
 
 Hardware:
